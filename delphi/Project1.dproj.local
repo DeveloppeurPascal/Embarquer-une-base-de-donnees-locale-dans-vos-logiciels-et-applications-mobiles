@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2019/12/15 17:07:22.000.629,=C:\Users\Patrick\Documents\Embarcadero\Studio\Projets\Unit1.pas</Transaction>
+    <Transaction>2019/12/19 12:11:46.959,=C:\Users\Patrick\Documents\Embarcadero\Studio\Projets\Unit1.pas</Transaction>
+    <Transaction>2019/12/19 12:12:02.726,=C:\Users\Patrick\Documents\Embarcadero\Studio\Projets\Unit2.pas</Transaction>
+    <Transaction>2019/12/19 12:13:13.037,C:\Users\Patrick\Documents\Embarcadero\Studio\Projets\Webinaire-20191219\antiseche\delphi\Unit2.pas=C:\Users\Patrick\Documents\Embarcadero\Studio\Projets\Unit2.pas</Transaction>
+    <Transaction>2019/12/19 12:13:13.037,C:\Users\Patrick\Documents\Embarcadero\Studio\Projets\Webinaire-20191219\antiseche\delphi\Unit2.dfm=C:\Users\Patrick\Documents\Embarcadero\Studio\Projets\Unit2.dfm</Transaction>
+    <Transaction>2019/12/19 12:13:14.974,C:\Users\Patrick\Documents\Embarcadero\Studio\Projets\Webinaire-20191219\antiseche\delphi\Unit1.fmx=C:\Users\Patrick\Documents\Embarcadero\Studio\Projets\Unit1.fmx</Transaction>
+    <Transaction>2019/12/19 12:13:14.974,C:\Users\Patrick\Documents\Embarcadero\Studio\Projets\Webinaire-20191219\antiseche\delphi\Unit1.pas=C:\Users\Patrick\Documents\Embarcadero\Studio\Projets\Unit1.pas</Transaction>
+    <Transaction>2019/12/19 12:13:17.052,C:\Users\Patrick\Documents\Embarcadero\Studio\Projets\Webinaire-20191219\antiseche\delphi\Project1.dproj=C:\Users\Patrick\Documents\Embarcadero\Studio\Projets\Project1.dproj</Transaction>
+  </Transactions>
+	<ActiveMobileDevice>
+		<PiMac iOSSimulator="iPhone5"/>
+	</ActiveMobileDevice>
+</BorlandProject>
